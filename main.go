@@ -14,8 +14,8 @@ const (
 	host     = "localhost"
 	port     = 5432
 	user     = "root"
-	password = "pass123456"
-	dbname   = "users"
+	password = "password"
+	dbname   = "postgressDB"
 )
 
 type User struct {
